@@ -1,0 +1,19 @@
+{
+  "name": "TMC 24/7 LLC - Freight Transportation",
+  "short_name": "TMC 24/7",
+  "description": "Nationwide freight transportation services. Setting the standard of excellence in freight transportation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1a",
+  "theme_color": "#0a0f1a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "transportation", "logistics"]
+}
